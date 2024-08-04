@@ -7,15 +7,7 @@ Nombre del Miembro 1 Carlos Andres Tapia
 
 Rol: Investigación sobre las funcionalidades principales de Figma
 Contribuciones: Breve descripcion de de las contribuciones 
-¿Que es figma? 
 
-Figma es un programa de gráficos vectoriales que está pensado fundamentalmente para diseñar interfaces, prototipos wireframess, entre otras cosas.  Cuando hablamos del uso que le damos sabemos el grado de sencillez con la que se accede y se navega por un sitio web en el caso de “figma” sus habilidades medio útil ya , que es una herramienta muy intuitiva y fácil de usar. En este caso, pueden ver que “figma” es compatible con los principales sistemas operativos. Tanto como Windows. Como macOS  y Linux. Lo bueno de este programa es que podes compartir tus diseños, componentes y prototipos a través de Una comunidad de diseñadores. 
-
-Herramientas corporativas 
-
-Utilizando “figma” en equipo, puede editar en vivo los diseños y además da la posibilidad de ver las modificaciones que haya realizado cada 1. De hecho, Figma cuenta con un chat para poder conversar en directo, al igual que Google Docs. Esto hace que el proceso sea mucho más rápido y sencillo a la hora de utilizarlo.  
-
-En el caso de que estés sin conexión, puede seguir utilizando alguna de las funciones de “figma”, como por ejemplo crear componentes locales, crear Marcos y formas rencillas modifican algunas propiedades del diseño, entre otras funciones.  
 
 En general, figma es una herramienta poderosa para diseñadores, equipos de diseño y empresas que buscan crear y colaborar en proyectos de diseño de manera eficiente y efectiva. 
 Nombre del Miembro 2: Rueda Sofia
@@ -26,8 +18,17 @@ Nombre del Miembro 3 (si aplica)
 
 Rol: Investigación sobre recursos y tutoriales para aprender Figma
 Contribuciones: Breve descripción de las contribuciones
-Funcionalidades Principales de Figma
-(Aquí el miembro 1 debe agregar información sobre las funcionalidades principales de Figma)
+Funcionalidades Principales de Figma.
+
+¿Que es figma? 
+
+Figma es un programa de gráficos vectoriales que está pensado fundamentalmente para diseñar interfaces, prototipos wireframess, entre otras cosas.  Cuando hablamos del uso que le damos sabemos el grado de sencillez con la que se accede y se navega por un sitio web en el caso de “figma” sus habilidades medio útil ya , que es una herramienta muy intuitiva y fácil de usar. En este caso, pueden ver que “figma” es compatible con los principales sistemas operativos. Tanto como Windows. Como macOS  y Linux. Lo bueno de este programa es que podes compartir tus diseños, componentes y prototipos a través de Una comunidad de diseñadores. 
+
+Herramientas corporativas 
+
+Utilizando “figma” en equipo, puede editar en vivo los diseños y además da la posibilidad de ver las modificaciones que haya realizado cada 1. De hecho, Figma cuenta con un chat para poder conversar en directo, al igual que Google Docs. Esto hace que el proceso sea mucho más rápido y sencillo a la hora de utilizarlo.  
+
+En el caso de que estés sin conexión, puede seguir utilizando alguna de las funciones de “figma”, como por ejemplo crear componentes locales, crear Marcos y formas rencillas modifican algunas propiedades del diseño, entre otras funciones.  
 
 # Casos de Uso de Figma
 
