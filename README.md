@@ -9,7 +9,7 @@ Rol: Investigación sobre las funcionalidades principales de Figma
 Contribuciones: Breve descripcion de de las contribuciones 
 
 
-En general, figma es una herramienta poderosa para diseñadores, equipos de diseño y empresas que buscan crear y colaborar en proyectos de diseño de manera eficiente y efectiva. 
+
 Nombre del Miembro 2: Rueda Sofia
 Rol: Investigación sobre los casos de uso de Figma
 Contribuciones: investigacion sobre los diversos casos de uso de figma
@@ -28,7 +28,7 @@ Herramientas corporativas
 
 Utilizando “figma” en equipo, puede editar en vivo los diseños y además da la posibilidad de ver las modificaciones que haya realizado cada 1. De hecho, Figma cuenta con un chat para poder conversar en directo, al igual que Google Docs. Esto hace que el proceso sea mucho más rápido y sencillo a la hora de utilizarlo.  
 
-En el caso de que estés sin conexión, puede seguir utilizando alguna de las funciones de “figma”, como por ejemplo crear componentes locales, crear Marcos y formas rencillas modifican algunas propiedades del diseño, entre otras funciones.  
+En el caso de que estés sin conexión, puede seguir utilizando alguna de las funciones de “figma”, como por ejemplo crear componentes locales, crear Marcos y formas rencillas modifican algunas propiedades del diseño, entre otras funciones.  En general, figma es una herramienta poderosa para diseñadores, equipos de diseño y empresas que buscan crear y colaborar en proyectos de diseño de manera eficiente y efectiva. 
 
 # Casos de Uso de Figma
 
