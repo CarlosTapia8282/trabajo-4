@@ -59,5 +59,13 @@ Aunque Figma se centra principalmente en el diseño de interfaces y prototipado,
 ## Conclusión
 Figma es una herramienta versátil que ha revolucionado la forma en que los equipos de diseño trabajan juntos. Sus capacidades de colaboración en tiempo real, prototipado interactivo y gestión de sistemas de diseño la convierten en una elección popular en la industria del diseño.
 
-
-Recursos y Tutoriales para Aprender Figma
+#Recursos y Tutoriales para Aprender Figma
+- Figma Basics: Figma ofrece un tutorial básico para principiantes en su sitio web.
+- Envato Tuts+: Envato Tuts+ ofrece tutoriales y cursos gratuitos para aprender Figma, incluyendo trucos y consejos para principiantes.
+- Figma Tips and Tricks: Kezz Bracey ofrece consejos y trucos para aprender Figma, incluyendo tutoriales en video y recursos adicionales.
+- Master de Figma: De principiante a Figma Pro: Aprende Figma ofrece un curso completo para aprender Figma, incluyendo lecciones en video, archivos de ejercicios y certificado profesional.
+- Curso Maestro de Figma: Platzi ofrece un curso para aprender Figma, incluyendo lecciones en video y proyecto final.
+- Introducción a Design Systems con Figma: Domestika ofrece un curso para aprender a construir interfaces de usuario con Figma, incluyendo lecciones en video y proyecto práctico.
+- Diseño UX: experiencia de usuario UX/UI + Figma 2023: Udemy ofrece un curso para aprender diseño UX/UI con Figma, incluyendo lecciones en video y soporte técnico.
+El siguiente enlace nos redirecciona a consejos basicos de Sigma:
+https://webdesign.tutsplus.com/es/figma-tricks-and-tips-for-beginners--cms-38174t
