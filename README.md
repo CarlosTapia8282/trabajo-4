@@ -8,13 +8,11 @@ Nombre del Miembro 1 Carlos Andres Tapia
 Rol: Investigación sobre las funcionalidades principales de Figma
 Contribuciones: Breve descripcion de de las contribuciones 
 
-
-
 Nombre del Miembro 2: Rueda Sofia
 Rol: Investigación sobre los casos de uso de Figma
 Contribuciones: investigacion sobre los diversos casos de uso de figma
 
-Nombre del Miembro 3 (si aplica)
+Nombre del Miembro 3 Martin Aguaysol
 
 Rol: Investigación sobre recursos y tutoriales para aprender Figma
 Contribuciones: Breve descripción de las contribuciones
@@ -63,4 +61,3 @@ Figma es una herramienta versátil que ha revolucionado la forma en que los equi
 
 
 Recursos y Tutoriales para Aprender Figma
-(Aquí el miembro 3 debe agregar información sobre recursos y tutoriales para aprender Figma)
