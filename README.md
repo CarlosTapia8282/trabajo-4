@@ -3,26 +3,28 @@ Introducción
 Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub para la colaboración en equipo, mientras se introduce la herramienta de diseño Figma.
 
 ## Miembros del Equipo
-Nombre del Miembro 1 Carlos Andres Tapia
+### Nombre del Miembro 1 Carlos Andres Tapia
 
 Rol: Investigación sobre las funcionalidades principales de Figma
 Contribuciones: Breve descripcion de de las contribuciones 
 
-Nombre del Miembro 2: Rueda Sofia
+### Nombre del Miembro 2: Rueda Sofia
+
 Rol: Investigación sobre los casos de uso de Figma
 Contribuciones: investigacion sobre los diversos casos de uso de figma
 
-Nombre del Miembro 3 Martin Aguaysol
+### Nombre del Miembro 3 Martin Aguaysol
 
 Rol: Investigación sobre recursos y tutoriales para aprender Figma
 Contribuciones: Breve descripción de las contribuciones
-Funcionalidades Principales de Figma.
 
-¿Que es figma? 
+# Funcionalidades Principales de Figma.
+
+## ¿Que es figma? 
 
 Figma es un programa de gráficos vectoriales que está pensado fundamentalmente para diseñar interfaces, prototipos wireframess, entre otras cosas.  Cuando hablamos del uso que le damos sabemos el grado de sencillez con la que se accede y se navega por un sitio web en el caso de “figma” sus habilidades medio útil ya , que es una herramienta muy intuitiva y fácil de usar. En este caso, pueden ver que “figma” es compatible con los principales sistemas operativos. Tanto como Windows. Como macOS  y Linux. Lo bueno de este programa es que podes compartir tus diseños, componentes y prototipos a través de Una comunidad de diseñadores. 
 
-Herramientas corporativas 
+## Herramientas corporativas 
 
 Utilizando “figma” en equipo, puede editar en vivo los diseños y además da la posibilidad de ver las modificaciones que haya realizado cada 1. De hecho, Figma cuenta con un chat para poder conversar en directo, al igual que Google Docs. Esto hace que el proceso sea mucho más rápido y sencillo a la hora de utilizarlo.  
 
@@ -59,7 +61,8 @@ Aunque Figma se centra principalmente en el diseño de interfaces y prototipado,
 ## Conclusión
 Figma es una herramienta versátil que ha revolucionado la forma en que los equipos de diseño trabajan juntos. Sus capacidades de colaboración en tiempo real, prototipado interactivo y gestión de sistemas de diseño la convierten en una elección popular en la industria del diseño.
 
-#Recursos y Tutoriales para Aprender Figma
+# Recursos y Tutoriales para Aprender Figma
+
 - Figma Basics: Figma ofrece un tutorial básico para principiantes en su sitio web.
 - Envato Tuts+: Envato Tuts+ ofrece tutoriales y cursos gratuitos para aprender Figma, incluyendo trucos y consejos para principiantes.
 - Figma Tips and Tricks: Kezz Bracey ofrece consejos y trucos para aprender Figma, incluyendo tutoriales en video y recursos adicionales.
